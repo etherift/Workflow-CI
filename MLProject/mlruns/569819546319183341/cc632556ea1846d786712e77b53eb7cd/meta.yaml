@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/569819546319183341/cc632556ea1846d786712e77b53eb7cd/artifacts
+end_time: 1784978764666
+entry_point_name: ''
+experiment_id: '569819546319183341'
+lifecycle_stage: active
+run_id: cc632556ea1846d786712e77b53eb7cd
+run_name: worried-ox-501
+run_uuid: cc632556ea1846d786712e77b53eb7cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784978757172
+status: 3
+tags: []
+user_id: runner
