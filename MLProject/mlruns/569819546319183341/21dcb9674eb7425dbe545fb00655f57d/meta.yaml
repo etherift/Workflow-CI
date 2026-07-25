@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/569819546319183341/21dcb9674eb7425dbe545fb00655f57d/artifacts
+end_time: 1784979860343
+entry_point_name: ''
+experiment_id: '569819546319183341'
+lifecycle_stage: active
+run_id: 21dcb9674eb7425dbe545fb00655f57d
+run_name: resilient-dog-635
+run_uuid: 21dcb9674eb7425dbe545fb00655f57d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784979852585
+status: 3
+tags: []
+user_id: runner
