@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/569819546319183341/57a80d411c0544c1800c5b5fceddd6fd/artifacts
+end_time: 1784980409695
+entry_point_name: ''
+experiment_id: '569819546319183341'
+lifecycle_stage: active
+run_id: 57a80d411c0544c1800c5b5fceddd6fd
+run_name: painted-wasp-968
+run_uuid: 57a80d411c0544c1800c5b5fceddd6fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784980402053
+status: 3
+tags: []
+user_id: runner
