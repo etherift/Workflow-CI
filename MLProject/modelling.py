@@ -27,13 +27,7 @@ def main():
 
     mlflow.set_experiment("breast_cancer_ci_retraining")
 
-    with mlflow.start_run(run_name="ci_retrain") as run:
-        mlflow.log_params({
-            "n_estimators": args.n_estimators,
-            "max_depth": max_depth,
-            "min_samples_split": args.min_samples_split,
-        })
-
+    with mlflow.start_run() as run:
         model = RandomForestClassifier(
             n_estimators=args.n_estimators,
             max_depth=max_depth,
