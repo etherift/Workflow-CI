@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/569819546319183341/27df6c091e1b498e81123391f13afa8b/artifacts
+end_time: 1784981698360
+entry_point_name: ''
+experiment_id: '569819546319183341'
+lifecycle_stage: active
+run_id: 27df6c091e1b498e81123391f13afa8b
+run_name: suave-midge-692
+run_uuid: 27df6c091e1b498e81123391f13afa8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784981690485
+status: 3
+tags: []
+user_id: runner
