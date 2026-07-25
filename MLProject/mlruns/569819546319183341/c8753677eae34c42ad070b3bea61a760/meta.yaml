@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/569819546319183341/c8753677eae34c42ad070b3bea61a760/artifacts
+end_time: 1784981449570
+entry_point_name: ''
+experiment_id: '569819546319183341'
+lifecycle_stage: active
+run_id: c8753677eae34c42ad070b3bea61a760
+run_name: classy-fox-884
+run_uuid: c8753677eae34c42ad070b3bea61a760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784981441477
+status: 3
+tags: []
+user_id: runner
