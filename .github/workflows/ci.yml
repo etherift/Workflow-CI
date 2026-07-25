@@ -5,6 +5,8 @@ on:
   workflow_dispatch: {}
 env:
   MLFLOW_TRACKING_URI: file:./mlruns
+permissions:
+  contents: write
 jobs:
   train-and-build:
     runs-on: ubuntu-latest
