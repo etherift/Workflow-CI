@@ -40,7 +40,7 @@ jobs:
           git add -f mlruns/ run_id.txt
           git diff --staged --quiet && exit 0
           git commit -m "chore: update trained model artefact [skip ci]"
-          git pull --rebase origin main
+          git pull --rebase -X ours origin main
           git push
       - name: Upload model artefact (GitHub Actions artifact)
         uses: actions/upload-artifact@v4
