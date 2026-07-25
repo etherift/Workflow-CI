@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/569819546319183341/77b75c72810b46eab03995274dbdebae/artifacts
+end_time: 1784981287385
+entry_point_name: ''
+experiment_id: '569819546319183341'
+lifecycle_stage: active
+run_id: 77b75c72810b46eab03995274dbdebae
+run_name: nebulous-grouse-659
+run_uuid: 77b75c72810b46eab03995274dbdebae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784981279182
+status: 3
+tags: []
+user_id: runner
